@@ -1,0 +1,5 @@
+# Instagram Clone
+
+## Summary
+
+Inspirations for this project, I wanted to create this project first because I wanted to learn system design and why not try to learn it by creating a clone of instagram something that I constantly whether I like it or not use daily. Next is because the tech stack for instagram is made with python and django on of the first starting languages for many developers and hobbyists so this can give me a good insight to how it works  and why its one the better starting languages. To one up this part I have to do the same thing but in Rust a high level language where I've read how people have recreated their backend for an application to have it work twice as fast with minimal CPU usage and RAM costs so I thought lets build these two and create a comparison.  I just wanted to learn Rust and i think it will be beneficial to just expose myself to other languages that aren't javascript and react based applications cause I have already worked with that stack. Lets see how long this takes, if it will break me will I learn a lot and how much ChatGPT is going to help. 
